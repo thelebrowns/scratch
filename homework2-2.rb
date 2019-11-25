@@ -1,2 +1,2 @@
-puts "hello\n" *10
-print "hello" *10 
+puts "i forget\nhow to make a\nnew line"
+print "i forget\nhow to make a\nnew line\n"
